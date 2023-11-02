@@ -1,5 +1,5 @@
 # Tickets App Frontend
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+This is a demo build of a full-stack web application built for a client who requested a ticketing system for their employees. It is a user-friendly application designed to streamline the workflow of employees. This application provides a comprehensive solution for managing and tracking requests, and ensuring efficient communication between employees.
 
 **Take a look here:**
 
@@ -7,26 +7,12 @@ https://abels-tech-triage.onrender.com/
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript, MongoDB, Express.js, React, Node.js, Redux, and JWT.
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+This web application is built on the MERN stack along with Redux for state management and JWT for authentication.
 
-## Optimizations
-*(optional)*
-
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+Employees are able to log in and add new tickets or view existing tickets. Administrators and Managers are able to modify Employee accounts/permissions and create/view/delete tickets. The data for the accounts and tickets are stored in a database using MongoDB.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
-
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
-
-
+Building an application with the MERN stack reinforced the importance of modular architecture. Using Redux for state management proved to be essential, especially in a complex application like this. Integrating JWT for authentication was a security component that I could not compromise on as different levels of employees would need access to certain aspects of the application.
