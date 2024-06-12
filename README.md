@@ -1,4 +1,4 @@
-# Tickets App Frontend
+# Abel's Tech Triage
 This is a demo build of a full-stack web application built for a client who requested a ticketing system for their employees. It is a user-friendly application designed to streamline the workflow of employees. This application provides a comprehensive solution for managing and tracking requests, and ensuring efficient communication between employees.
 
 **Take a look here:**
