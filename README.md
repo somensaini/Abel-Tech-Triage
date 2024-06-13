@@ -5,6 +5,22 @@ This is a demo build of a full-stack web application built for a client who requ
 
 https://abels-tech-triage.onrender.com/
 
+Demo Account
+
+Username: Testaccount
+
+Password: password
+
+Please note that this account will have limited access as it's level is restricted to 'Employee'.
+
+![image](https://github.com/somensaini/Abel-Tech-Triage/assets/40222610/3d71c683-fdea-4f36-8939-314d7664d498)
+
+![image](https://github.com/somensaini/Abel-Tech-Triage/assets/40222610/6557a7ea-4174-479e-81d7-e8d89d5c901b)
+
+![image](https://github.com/somensaini/Abel-Tech-Triage/assets/40222610/cc88d90e-c0b8-4180-9542-6486fa5d2532)
+
+![image](https://github.com/somensaini/Abel-Tech-Triage/assets/40222610/e6c69616-413b-4564-b0f3-27609684ed4c)
+
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, MongoDB, Express.js, React, Node.js, Redux, and JWT.
